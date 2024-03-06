@@ -49,7 +49,7 @@ export const Spotlight = ({ className, fill }: SpotlightProps) => {
             stdDeviation="151"
             result="effect1_foregroundBlur_1065_8"
           ></feGaussianBlur>
-        </filter>
+        </filter> 
       </defs>
     </svg>
   );

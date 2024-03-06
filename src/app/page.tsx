@@ -1,3 +1,4 @@
+import FeaturedCourses from "@/components/FeaturedCourses";
 import HeroSection from "@/components/HeroSection";
 
 export default function Home() {
@@ -6,6 +7,7 @@ export default function Home() {
 
       <h1 className="text-2xl text-center">Chai aur NextJS</h1>
       <HeroSection/>
+      <FeaturedCourses/>
     </main>
   );
 }
