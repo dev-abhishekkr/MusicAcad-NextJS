@@ -12,93 +12,93 @@
     },
     {
       "id": 2,
-      "title": "Guitar fundamentalists",
-      "slug": "guitar-fundamentals",
-      "description": "Learn the basics of playing guitar with our comprehensive beginner's friendly course",
-      "price": "99.99",
-      "instructor": "John Jadoogar",
+      "title": "Piano Mastery",
+      "slug": "piano-mastery",
+      "description": "Unlock the secrets of piano playing through our advanced mastery course",
+      "price": "129.99",
+      "instructor": "Melissa Keysmith",
       "isFeatured": false,
-      "image": "/courses/guitar.jpg"
+      "image": "/courses/piano.jpg"
     },
     {
       "id": 3,
-      "title": "Violin fundamentalists",
-      "slug": "violin-fundamentals",
-      "description": "Learn the basics of playing guitar with our comprehensive beginner's friendly course",
-      "price": "109.99",
-      "instructor": "Raveena Jadoogar",
-      "isFeatured": true,
-      "image": "/courses/guitar.jpg"
+      "title": "Bass Guitar Basics",
+      "slug": "bass-guitar-basics",
+      "description": "Dive into the world of bass guitar with this foundational course for beginners",
+      "price": "79.99",
+      "instructor": "Ryan Groove",
+      "isFeatured": false,
+      "image": "/courses/bass.jpg"
     },
     {
       "id": 4,
-      "title": "Piano fundamentalists",
-      "slug": "piono-fundamentals",
-      "description": "Learn the basics of playing guitar with our comprehensive beginner's friendly course",
-      "price": "199.99",
-      "instructor": "Narayan Jadoogar",
+      "title": "Vocal Harmony Workshop",
+      "slug": "vocal-harmony-workshop",
+      "description": "Enhance your singing skills and explore the art of vocal harmony in this interactive workshop",
+      "price": "89.99",
+      "instructor": "Aria Harmonica",
       "isFeatured": true,
-      "image": "/courses/guitar.jpg"
+      "image": "/courses/vocal.jpg"
     },
     {
       "id": 5,
-      "title": "Trumpet fundamentalists",
-      "slug": "trumpt-fundamentals",
-      "description": "Learn the basics of playing guitar with our comprehensive beginner's friendly course",
-      "price": "79.99",
-      "instructor": "Jake Jadoogar",
-      "isFeatured": true,
-      "image": "/courses/guitar.jpg"
+      "title": "Drum Rhythms Unleashed",
+      "slug": "drum-rhythms-unleashed",
+      "description": "Master the art of drumming with our dynamic course on rhythmic patterns and techniques",
+      "price": "109.99",
+      "instructor": "Beat Maestro",
+      "isFeatured": false,
+      "image": "/courses/drum.jpg"
     },
     {
       "id": 6,
-      "title": "Flute fundamentalists",
-      "slug": "flute-fundamentals",
-      "description": "Learn the basics of playing guitar with our comprehensive beginner's friendly course",
-      "price": "299.99",
-      "instructor": "John Jadoogar",
+      "title": "Songwriting Essentials",
+      "slug": "songwriting-essentials",
+      "description": "Craft compelling songs with our essential guide to songwriting and composition",
+      "price": "94.99",
+      "instructor": "Lyric Muse",
       "isFeatured": true,
-      "image": "/courses/guitar.jpg"
+      "image": "/courses/songwriting.jpg"
     },
     {
       "id": 7,
-      "title": "Guitar fundamentalists",
-      "slug": "guitar-fundamentals",
-      "description": "Learn the basics of playing guitar with our comprehensive beginner's friendly course",
-      "price": "99.99",
-      "instructor": "John Jadoogar",
+      "title": "Jazz Improvisation Intensive",
+      "slug": "jazz-improvisation-intensive",
+      "description": "Immerse yourself in the world of jazz improvisation with this intensive and dynamic course",
+      "price": "119.99",
+      "instructor": "Jazz Virtuoso",
       "isFeatured": false,
-      "image": "/courses/guitar.jpg"
+      "image": "/courses/jazz.jpg"
     },
     {
       "id": 8,
-      "title": "Guitar fundamentalists",
-      "slug": "guitar-fundamentals",
-      "description": "Learn the basics of playing guitar with our comprehensive beginner's friendly course",
-      "price": "99.99",
-      "instructor": "John Jadoogar",
-      "isFeatured": false,
-      "image": "/courses/guitar.jpg"
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Create electronic music masterpieces with our comprehensive production course",
+      "price": "149.99",
+      "instructor": "Digital Maestro",
+      "isFeatured": true,
+      "image": "/courses/electronic.jpg"
     },
     {
       "id": 9,
-      "title": "Guitar fundamentalists",
-      "slug": "guitar-fundamentals",
-      "description": "Learn the basics of playing guitar with our comprehensive beginner's friendly course",
-      "price": "99.99",
-      "instructor": "John Jadoogar",
+      "title": "Saxophone Serenade",
+      "slug": "saxophone-serenade",
+      "description": "Embark on a melodious journey with the saxophone through this soulful serenade course",
+      "price": "109.99",
+      "instructor": "Sax Maestro",
       "isFeatured": false,
-      "image": "/courses/guitar.jpg"
+      "image": "/courses/saxophone.jpg"
     },
     {
       "id": 10,
-      "title": "Shehnai Advanced",
-      "slug": "shehnai-fundamentals",
-      "description": "Learn the basics of playing guitar with our comprehensive beginner's friendly course",
-      "price": "159.99",
-      "instructor": "Hussain Jadoogar",
+      "title": "Acoustic Folk Guitar",
+      "slug": "acoustic-folk-guitar",
+      "description": "Discover the heartwarming sounds of acoustic folk guitar in this beginner-friendly course",
+      "price": "84.99",
+      "instructor": "Folk Strings",
       "isFeatured": true,
-      "image": "/courses/guitar.jpg"
+      "image": "/courses/acoustic-folk.jpg"
     }
   ]
 }

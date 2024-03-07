@@ -48,7 +48,7 @@ function FeaturedCourses() {
                   <p className="mb-7 text-sm text-neutral-600 dark:text-neutral-400 flex-grow">
                     {course.description}
                   </p>
-                  <Link href={`courses/${course.slug}`}>Learn More</Link>
+                  <Link href={"/courses"}>Learn More</Link>
                 </div>
               </BackgroundGradient>
             </div>
