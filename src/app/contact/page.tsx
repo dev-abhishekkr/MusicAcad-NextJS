@@ -15,8 +15,8 @@ function page() {
             <p></p>
             <p className="text-neutral-400 max-w-lg mx-auto my-2 text-sm text-center relative z-10">
               Embarking on a harmonious journey, I invite you to join the
-              vibrant musical community flourishing within my dedicated
-              platform. Whether you're a beginner, a seasoned musician, an
+              vibrant musical community flourishing within our dedicated
+              platform. Whether you&apos;re a beginner, a seasoned musician, an
               aspiring artist, or an avid music enthusiast, this space is
               designed to foster creativity, collaboration, and appreciation for
               the diverse world of music.{" "}
